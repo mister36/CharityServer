@@ -1,0 +1,26 @@
+{
+  "name": "charityserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mister36/CharityServer.git"
+  },
+  "author": "Adam Achebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mister36/CharityServer/issues"
+  },
+  "homepage": "https://github.com/mister36/CharityServer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-news-json": "^2.0.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
