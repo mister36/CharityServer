@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/mister36/CharityServer#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
     "express": "^4.17.1",
     "google-news-json": "^2.0.4",
     "morgan": "^1.10.0",
